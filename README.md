@@ -59,7 +59,7 @@ Runs a standard 25m work / 5m break cycle with a long break every 4 sessions.
 Phases auto-advance 3 seconds after the bell. Press `n` to skip the wait.
 A row of dots below the timer shows your position in the current cycle.
 
-All durations are configurable — see Config.
+All durations are configurable - see Config.
 
 ## Stats
 
@@ -125,7 +125,7 @@ pomodoro_longbreak_every = 4
 
 ### Font
 
-The bundled font is Lora Italic. Any `.ttf` works — handwritten fonts like
+The bundled font is Lora Italic. Any `.ttf` works - handwritten fonts like
 [Caveat](https://fonts.google.com/specimen/Caveat) or [Kalam](https://fonts.google.com/specimen/Kalam) match the aesthetic best.
 
 ```sh
